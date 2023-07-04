@@ -2,21 +2,21 @@ import 'package:flutter/material.dart';
 import 'package:portfolio/models/project_model.dart';
 
 //Update with colors of your choice for dp background gradient
-Color kGradient1 = Colors.purple;
+Color kGradient1 = Colors.blueAccent;
 Color kGradient2 = Colors.pinkAccent;
 
-String imagePath = "images/aditya.jpeg";
+String imagePath = "images/shubham.jpeg";
 
 //String data to modify
-String name = "Your Name";
-String username = "flutterroles";
+String name = "Shubham Garg";
+String username = "shubham8garg";
 
 //Link to resume on Google Drive
 String resumeLink =
     "https://drive.google.com/file/d/1uZPqMWva6pZxzQxsR_ILLZ_FxJr24QeY/view?usp=sharing";
 
 //Contact Email
-String contactEmail = "mail@adityathakur.in";
+String contactEmail = "shubham8garg@gmail.com";
 
 String aboutWorkExperience = '''
 Hello I am a freelancer
@@ -25,15 +25,15 @@ He has previously been a speaker at the Flutter Global Summit'21, Flutter Viking
 ''';
 
 String aboutMeSummary = '''
-Aditya is a content creator and has over 5K subscribers on YouTube and a 700+ member community on Discord. 
-📺 YouTube Channel: watch.adityathakur.in
-🚀 Discord Community: discord.adityathakur.in
+Shubham is a content creator and has over 5K subscribers on YouTube and a 700+ member community on Discord. 
+📺 YouTube Channel: gargshubham.com
+🚀 Discord Community: discord.shubhamgarg.com
 ''';
 
-String location = "Dharamshala, India";
-String website = "adityathakur.in";
-String portfolio = "adityathakurxd";
-String email = "mail@adityathakur.in";
+String location = "Boston, MA, USA";
+String website = "gargshubham.com";
+String portfolio = "gargshubham.com";
+String email = "shubham8garg@gmail.com";
 
 List<Project> projectList = [
   Project(
